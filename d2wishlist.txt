@@ -1,10 +1,8 @@
 title:My Hand Curated Wishlist
 
-dimwishlist:item=1402766122&perks=466087222,106909392,706527188,957782887,2697220197
-
 // SURVIVOR'S EPITAPH
-//notes:SS - No one else seems to like Outlaw on here - why not? Precision is the name of the game with hand cannons.
-dimwishlist:item=310708513&perks=,1168162263,4104185692
+//notes:SS - My Survivor's epitaph wishlist
+dimwishlist:item=310708513&perks=839105230,679225683,1168162263,1015611457
 
 //Dead Weight
 //notes:SS - Shows up as PvE Roll on Light.gg - Frenzy/Subsistence Combo is pretty great
