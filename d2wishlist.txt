@@ -9,3 +9,7 @@ dimwishlist:item=310708513&perks=,1168162263,4104185692
 //Dead Weight
 //notes:SS - Shows up as PvE Roll on Light.gg - Frenzy/Subsistence Combo is pretty great
 dimwishlist:item=3738678140&perks=4090651448,1087426260,1820235745,4104185692
+
+//Riptide
+//notes:SS - My Riptide Wishlist
+dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579
