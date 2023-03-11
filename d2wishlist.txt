@@ -25,3 +25,9 @@ dimwishlist:item=409551876&perks=839105230,3230963543,247725512,2458213969
 // Interference VI
 //notes:SS - 2/6/23 - Apparently one of most sought after rolls for Heavy GL
 dimwishlist:item=2257180473&perks=3798852852,2985827016,3300816228,2888557110
+
+//SYNCHRONIC ROULETTE
+//notes: SS - 3/11/23
+dimwishlist:item=811403305&perks=4090651448,1968497646,1645158859,831391274
+//notes: SS - Testing
+dimwishlist:item=811403305&perks=1467527085,2420895100,2272927194,831391274
