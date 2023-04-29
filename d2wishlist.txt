@@ -45,4 +45,4 @@ dimwishlist:item=3110377595&perks=,1428297954,460017080#notes:SS - Personal list
 dimwishlist:item=3110377595&perks=,2846385770,460017080#notes:SS - Personal list
 
 // Riptide
-dimwishlist:item=2715240478&perks=1392496348,689005463,1428297954,2978966579#notes:SS - Perfect Roll!
+dimwishlist:item=2715240478&perks=1392496348,689005463,1428297954,2978966579#notes:SS - Perfect Roll
