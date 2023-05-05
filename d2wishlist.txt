@@ -29,17 +29,6 @@ dimwishlist:item=3738678140&perks=4090651448,1087426260,1820235745,4104185692
 //notes:SS - 2/6/23 - Apparently one of most sought after rolls for Heavy GL
 //dimwishlist:item=2257180473&perks=3798852852,2985827016,3300816228,2888557110
 
-//SYNCHRONIC ROULETTE
-//notes: SS - 3/11/23
-dimwishlist:item=811403305&perks=4090651448,1968497646,1645158859,831391274
-//notes: SS - Testing
-dimwishlist:item=811403305&perks=1467527085,2420895100,2272927194,831391274
-
-// Retrofuturist
-dimwishlist:item=1402766122&perks=466087222,106909392,706527188,957782887#notes:SS - my Favorite PvP Shotgun
-
-
-
 //Nameless Midnight
 dimwishlist:item=996109059&perks=839105230,106909392,3400784728,3891536761#notes:SS - Nameless Midnight Roll I guess
 dimwishlist:item=996109059&perks=,1168162263,3891536761#notes:SS - Nameless Midnight Roll I guess
@@ -58,9 +47,6 @@ dimwishlist:item=1851521408&perks=1840239774,1561002382,247725512,124408337
 // Trinary
 dimwishlist:item=3258665412&perks=3250034553,1483536627,2779035018,3523296417#notes:SS - Remove This
 
-// Punching Out
-dimwishlist:item=378498222&perks=839105230,1087426260,3436462433,2726471870,744217850#notes:SS - Remove This
-
 //The Title
 dimwishlist:item=3559361670&perks=839105230,3230963543,1428297954,776531651,1702976605#notes:SS - #1 pick
 dimwishlist:item=3559361670&perks=839105230,3230963543,4071163871,776531651,1702976605#notes:SS - #2 pick
@@ -68,3 +54,6 @@ dimwishlist:item=3559361670&perks=839105230,3230963543,4071163871,776531651,1702
 //Taraxippos
 dimwishlist:item=1389546626&perks=839105230,106909392,1168162263,3038247973,1702976605#notes:SS - 5/2/23 My picks for this gun
 dimwishlist:item=1389546626&perks=839105230,106909392,588594999,3038247973,1702976605#notes:SS - Optimum PVP
+
+// Retrofuturist
+dimwishlist:item=1402766122&perks=466087222,106909392,706527188,957782887#notes:SS - my Favorite PvP Shotgun
