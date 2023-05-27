@@ -55,5 +55,9 @@ dimwishlist:item=3559361670&perks=839105230,3230963543,4071163871,776531651,1702
 dimwishlist:item=1389546626&perks=839105230,106909392,1168162263,3038247973,1702976605#notes:SS - 5/2/23 My picks for this gun
 dimwishlist:item=1389546626&perks=839105230,106909392,588594999,3038247973,1702976605#notes:SS - Optimum PVP
 
+// Laser Painter
+dimwishlist:item=3221722018&perks=,2284787283,2610012052#notes:SS - 5/27/23 - Trying out golden tricorn instead of Vorpal, Vorpal only 10% on Heavy Weapons
+
 // Retrofuturist
 dimwishlist:item=1402766122&perks=466087222,106909392,706527188,957782887#notes:SS - my Favorite PvP Shotgun
+
