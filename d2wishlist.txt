@@ -8,6 +8,9 @@ dimwishlist:item=963710795&perks=,1523832109,2978966579#notes:SS - Personal list
 dimwishlist:item=3110377595&perks=,1428297954,460017080#notes:SS - Personal list
 dimwishlist:item=3110377595&perks=,2846385770,460017080#notes:SS - Personal list
 
+// Better Devils
+dimwishlist:item=4152016199&perks=839105230,3142289711,247725512,3038247973#notes:SS - Personal list
+
 // Boudica-C
 dimwishlist:item=1916287826&perks=,691659142,4082225868#notes:SS - Personal list
 
