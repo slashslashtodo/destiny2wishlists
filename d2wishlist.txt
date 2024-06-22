@@ -11,6 +11,10 @@ dimwishlist:item=3110377595&perks=,2846385770,460017080#notes:SS - Personal list
 // Boudica-C
 dimwishlist:item=1916287826&perks=,691659142,4082225868#notes:SS - Personal list
 
+//Breachlight
+dimwishlist:item=2328923181&perks=839105230,3142289711,691659142,4082225868#notes:SS - Personal list #1 pick
+dimwishlist:item=2328923181&perks=,691659142,4082225868#notes:SS - Personal list perks only
+
 // Cantata-57
 dimwishlist:item=372697604&perks=,247725512,1546637391#notes:SS - 8/26/23 - Personal List
 
@@ -52,12 +56,23 @@ dimwishlist:item=3221722018&perks=,2284787283,2610012052#notes:SS - 5/27/23 - Tr
 // Legal Action II
 dimwishlist:item=3409645497&perks=,1570042021,3425386926#notes:SS - 8/24/23 - Ideal Perk combo
 
+// Line in the stand
+dimwishlist:item=2450049485&perks=839105230,689005463,2284787283,1427256713#notes:SS - Personal List
+dimwishlist:item=2450049485&perks=,2284787283,1427256713#notes:SS - Perks Only
+
 // Luna Regolith III
 // ?
 
 // Out of Bounds
 //notes:SS - 8/27/23 - Personal List
 dimwishlist:item=2988121501&perks=,1820235745,4082225868
+
+// Patron of Lost Causes
+dimwishlist:item=2249996761&perks=839105230,106909392,247725512,3038247973#notes:SS - Personal List
+dimwishlist:item=2249996761&perks=839105230,106909392,247725512,3891536761#notes:SS - Personal List
+dimwishlist:item=2249996761&perks=,247725512,3038247973#notes:SS - Perks Only
+dimwishlist:item=2249996761&perks=,247725512,3891536761#notes:SS - Perks Only
+
 
 // Randy's Throwing Knife
 //notes:SS - 8/27/23 - Personal List
