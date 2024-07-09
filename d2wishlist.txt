@@ -21,6 +21,12 @@ dimwishlist:item=2328923181&perks=,691659142,4082225868#notes:SS - Personal list
 // Cantata-57
 dimwishlist:item=372697604&perks=,247725512,1546637391#notes:SS - 8/26/23 - Personal List
 
+// Claws of the Wolf
+dimwishlist:item=1505862304&perks=,460017080,1015611457#notes:SS - Personal list perks only added 7/8/24
+
+// Crimil's Dagger
+dimwishlist:item=198854575&perks=4090651448,106909392,1168162263,555281244,3989629871#notes:SS - Personal list added 7/8/24
+
 // Crisis Inverted
 dimwishlist:item=2888266564&perks=1840239774,1885400500,247725512,47981717,4091460919#notes:SS - Personal list pick #1
 dimwishlist:item=2888266564&perks=1840239774,1885400500,588594999,47981717,4091460919#notes:SS - Personal list pick #2
