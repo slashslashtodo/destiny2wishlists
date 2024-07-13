@@ -22,6 +22,7 @@ dimwishlist:item=2328923181&perks=,691659142,4082225868#notes:SS - Personal list
 dimwishlist:item=372697604&perks=,247725512,1546637391#notes:SS - 8/26/23 - Personal List
 
 // Claws of the Wolf
+dimwishlist:item=1505862304&perks=,460017080,2387244414#notes:SS - Personal list perks only prefered option 7/12/24
 dimwishlist:item=1505862304&perks=,460017080,1015611457#notes:SS - Personal list perks only added 7/8/24
 
 // Crimil's Dagger
