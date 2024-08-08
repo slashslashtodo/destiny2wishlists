@@ -100,6 +100,9 @@ dimwishlist:item=3678653083&perks=839105230,1087426260,3418782618,831391274#note
 //notes:SS - 8/27/23 - Personal List
 dimwishlist:item=2988121501&perks=,1820235745,4082225868
 
+// Parabellum
+dimwishlist:item=3926811686&perks=,3017780555,243981275#notes:SS - 8/8/24 - Personal List
+
 // Patron of Lost Causes
 dimwishlist:item=2249996761&perks=839105230,106909392,247725512,3038247973#notes:SS - Personal List
 dimwishlist:item=2249996761&perks=839105230,106909392,247725512,3891536761#notes:SS - Personal List
