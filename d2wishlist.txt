@@ -89,6 +89,9 @@ dimwishlist:item=2450049485&perks=,2284787283,1427256713#notes:SS - Perks Only
 // Luna Regolith III
 // ?
 
+// Old Sterling
+dimwishlist:item=3678653083&perks=839105230,1087426260,3418782618,831391274#notes:SS - 8/7/24 - Personal List
+
 // Out of Bounds
 //notes:SS - 8/27/23 - Personal List
 dimwishlist:item=2988121501&perks=,1820235745,4082225868
